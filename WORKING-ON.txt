@@ -1,0 +1,12 @@
+- find package
+  - find files
+  - ignore .gitignore
+  - ignore flag
+  - limit depth
+
+- grep package
+  - match query
+  - find faster way to grep
+
+- print package
+  - pretty print results
