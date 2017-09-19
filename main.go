@@ -58,7 +58,7 @@ loop:
 		}
 	}
 	elapsed := time.Since(started)
-	fmt.Printf("Found %d matches in %d files\n", nmatches, nfiles)
+	fmt.Printf("\nFound %d matches in %d files\n", nmatches, nfiles)
 	fmt.Printf("Took %s\n", elapsed)
 }
 
